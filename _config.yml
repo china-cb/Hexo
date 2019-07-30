@@ -4,7 +4,7 @@
 
 # Site
 title: 胡霸霸的博客
-subtitle: Easy
+subtitle: Self-discipline gives freedom
 description: 第一个博客站
 keywords: blog
 author: baba hu
@@ -82,3 +82,12 @@ deploy:
   repo: https://github.com/china-cb/china-cb.github.io
   branch: master
   message:
+
+# Post wordcount display settings
+## Dependencies: https://github.com/theme-next/hexo-symbols-count-time
+symbols_count_time: 
+  symbols: true 
+  time: true 
+  total_symbols: true 
+  total_time: true 
+  exclude_codeblock: false
