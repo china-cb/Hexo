@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 胡霸霸的博客
+title: 胡霸的博客
 subtitle: Self-discipline gives freedom
-description: 第一个博客站
+description: 
 keywords: blog
-author: baba hu
-language: zh-CN
-timezone: America/New_York
+author: china-cb
+language: zh-Hans
+# timezone: America/New_York
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
